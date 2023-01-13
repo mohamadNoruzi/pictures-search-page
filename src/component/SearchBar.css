@@ -1,0 +1,18 @@
+.search-bar {
+  border: 1px solid lightgray;
+}
+
+.search-bar form {
+  display: flex;
+  flex-direction: column;
+  column-gap: 100px;
+  align-items: center;
+}
+
+.search-bar form label {
+  margin: 15px;
+}
+
+.search-bar form input {
+  margin: 5px;
+}
